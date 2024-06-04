@@ -5,15 +5,17 @@
   * Koreaniseasy website (React)
   * Cheznico website (React)
   * Medic_Life Korea (React Native)
+  * XPercent
   * More Clones
 * PowerShell
   * FIM (File Integrity Monitor)
-* Python
+* Python (Django Framework)
   * syudata website
   * Keylogger
   * LSB_Stegnography
   * Phishing
   * scanner
-  * CV2 Face_detection 
+  * CV2 Face_detection
+  * deeptrade
   * more.....
  
